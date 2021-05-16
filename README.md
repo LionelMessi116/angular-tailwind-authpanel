@@ -2,8 +2,12 @@
 
 * Angular 11 app using [Webpack v5](https://webpack.js.org/) & [Tailwindcss](https://developers.google.com/chart/) components to display a login dashboard
 * Tutorial code from [CodingAndCaffeine, Youtube channel](https://www.youtube.com/channel/UCQk_kRUoxJQY5vqbJQFgJDA) - see [:clap: Inspiration](#clap-inspiration) below
+* **Note:** to open web links in a new window use: _ctrl+click on link_
 
-*** Note: to open web links in a new window use: _ctrl+click on link_**
+![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/angular-tailwind-authpanel?style=plastic)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/AndrewJBateman/angular-tailwind-authpanel?style=plastic)
+![GitHub Repo stars](https://img.shields.io/github/stars/AndrewJBateman/angular-tailwind-authpanel?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/AndrewJBateman/angular-tailwind-authpanel?style=plastic)
 
 ## :page_facing_up: Table of contents
 
@@ -18,6 +22,7 @@
   * [:cool: Features](#cool-features)
   * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
+  * [:file_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -60,9 +65,9 @@
     id="remember_me"
     name="remember_me"
     type="checkbox"
-    class="h-4 w-4 text-indigo-600 focus:ring-indigo-500 border-gray-300 rounded"
+    class="w-4 h-4 text-indigo-600 border-gray-300 rounded focus:ring-indigo-500"
   />
-  <label for="remember_me" class="ml-2 block text-sm text-gray-900">
+  <label for="remember_me" class="block ml-2 text-sm text-gray-900">
     Remember me
   </label>
 </div>
@@ -84,6 +89,10 @@
 * [Trungk18.com: How to configure TailwindCSS with Angular and why you should use it](https://trungk18.com/experience/configure-tailwind-css-with-angular/)
 * [Angular Architects: article: Extending the Angular CLI’s build process without ejecting](https://www.angulararchitects.io/aktuelles/extending-the-angular-clis-build-process/)
 
+## :file_folder: License
+
+* This project is licensed under the terms of the MIT license.
+
 ## :envelope: Contact
 
-* Repo created by [ABateman](https://www.andrewbateman.org) - you are welcome to [send me a message](https://andrewbateman.org/contact)
+* Repo created by [ABateman](https://github.com/AndrewJBateman), email: gomezbateman@yahoo.com
