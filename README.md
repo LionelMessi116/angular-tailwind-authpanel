@@ -79,7 +79,7 @@
 
 ## :clipboard: Status & To-Do List
 
-* Status: Working. All filees pass linting. App passes unit tests. e2e testing not set up so doesn't pass. Build file is a compact 241.70kb thanks to Tailwind’s purge option (manually enabled in `tailwind.config.js`) that tree-shakes unused styles and optimizes the final build size.
+* Status: Working. Updated may 2021. All files pass linting. App passes unit tests. e2e testing not set up so doesn't pass. Build file is a compact 245kb thanks to Tailwind’s purge option (manually enabled in `tailwind.config.js`) that tree-shakes unused styles and optimizes the final build size.
 * To-Do: Nothing
 
 ## :clap: Inspiration
