@@ -40,9 +40,9 @@
 * [Angular framework v12](https://angular.io/)
 * [Webpack v5](https://webpack.js.org/) static module bundler for modern JavaScript applications.
 * [Tailwindcss v2](https://tailwindcss.com/) CSS framework
-* [postcss-loader v4](https://www.npmjs.com/package/postcss-loader) Loader to process CSS with PostCSS. Transformations that are applied to the source code of a module, to pre-process files as you import or “load” them.
+* [postcss-loader v5](https://www.npmjs.com/package/postcss-loader) Loader to process CSS with PostCSS. Transformations that are applied to the source code of a module, to pre-process files as you import or “load” them.
 * [postcss-scss v3](https://www.npmjs.com/package/postcss-scss) SCSS parser for PostCSS.
-* [ngx-build-plus](https://www.npmjs.com/package/ngx-build-plus) to extend the Angular CLI's default build behavior. Allows a partial custom webpack config to be merged with the CLI's one.
+* [ngx-build-plus v12](https://www.npmjs.com/package/ngx-build-plus) to extend the Angular CLI's default build behavior. Allows a partial custom webpack config to be merged with the CLI's one.
 
 ## :floppy_disk: Setup
 
