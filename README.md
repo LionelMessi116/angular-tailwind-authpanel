@@ -1,6 +1,6 @@
 # :zap: Angular Tailwind Auth Panel
 
-* Angular 11 app using [Webpack v5](https://webpack.js.org/) & [Tailwindcss](https://developers.google.com/chart/) components to display a login dashboard
+* Angular app using [Webpack v5](https://webpack.js.org/) & [Tailwindcss](https://developers.google.com/chart/) components to display a login dashboard
 * Tutorial code from [CodingAndCaffeine, Youtube channel](https://www.youtube.com/channel/UCQk_kRUoxJQY5vqbJQFgJDA) - see [:clap: Inspiration](#clap-inspiration) below
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
@@ -37,7 +37,7 @@
 
 ## :signal_strength: Technologies
 
-* [Angular framework v11](https://angular.io/)
+* [Angular framework v12](https://angular.io/)
 * [Webpack v5](https://webpack.js.org/) static module bundler for modern JavaScript applications.
 * [Tailwindcss v2](https://tailwindcss.com/) CSS framework
 * [postcss-loader v4](https://www.npmjs.com/package/postcss-loader) Loader to process CSS with PostCSS. Transformations that are applied to the source code of a module, to pre-process files as you import or “load” them.
