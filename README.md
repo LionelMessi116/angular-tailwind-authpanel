@@ -1,7 +1,7 @@
 # :zap: Angular Tailwind Auth Panel
 
 * Angular app using [Webpack v5](https://webpack.js.org/) & [Tailwindcss](https://developers.google.com/chart/) components to display a login dashboard
-* Tutorial code from [CodingAndCaffeine, Youtube channel](https://www.youtube.com/channel/UCQk_kRUoxJQY5vqbJQFgJDA) - see [:clap: Inspiration](#clap-inspiration) below
+* Tutorial code from [CodingAndCaffeine, Youtube channel](https://www.youtube.com/channel/UCQk_kRUoxJQY5vqbJQFgJDA) - see [:clap: Inspiration](#clap-inspiration) below. Don't update.
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/angular-tailwind-authpanel?style=plastic)
@@ -84,6 +84,7 @@
 
 ## :clap: Inspiration
 
+* [Daniel Laera: How To Add Tailwind In Angular 11 Project](https://www.youtube.com/watch?v=ul8UvsBWM3Y&t=341s)
 * [Angular 11 and Tailwind; Let's go!](https://www.youtube.com/watch?v=ul8UvsBWM3Y)
 * [Tailwindcss docs: Optimizing for Production](https://tailwindcss.com/docs/optimizing-for-production#setting-up-purgecss)
 * [Trungk18.com: How to configure TailwindCSS with Angular and why you should use it](https://trungk18.com/experience/configure-tailwind-css-with-angular/)
