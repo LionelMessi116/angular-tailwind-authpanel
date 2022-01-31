@@ -1,7 +1,7 @@
 # :zap: Angular Tailwind Auth Panel
 
 * Angular app using [Webpack v5](https://webpack.js.org/) & [Tailwindcss](https://tailwindcss.com/) components to display a login dashboard
-* Tutorial code from [CodingAndCaffeine, Youtube channel](https://www.youtube.com/channel/UCQk_kRUoxJQY5vqbJQFgJDA) - see [:clap: Inspiration](#clap-inspiration) below. Don't update.
+* Tutorial code from [CodingAndCaffeine, Youtube channel](https://www.youtube.com/channel/UCQk_kRUoxJQY5vqbJQFgJDA) - see [:clap: Inspiration](#clap-inspiration) below.
 * **Note:** to open web links in a new window use: _ctrl+click on link_
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/AndrewJBateman/angular-tailwind-authpanel?style=plastic)
@@ -39,16 +39,16 @@
 
 * [Angular framework v13](https://angular.io/)
 * [Webpack v5](https://webpack.js.org/) static module bundler for modern JavaScript applications.
-* [Tailwindcss v2](https://tailwindcss.com/) CSS framework
+* [Tailwindcss v3](https://tailwindcss.com/) CSS framework
 * [postcss-loader v5](https://www.npmjs.com/package/postcss-loader) Loader to process CSS with PostCSS. Transformations that are applied to the source code of a module, to pre-process files as you import or “load” them.
 * [postcss-scss v3](https://www.npmjs.com/package/postcss-scss) SCSS parser for PostCSS.
-* [ngx-build-plus v13](https://www.npmjs.com/package/ngx-build-plus) to extend the Angular CLI's default build behavior. Allows a partial custom webpack config to be merged with the CLI's one.
+* [ngx-build-plus v13](https://www.npmjs.com/package/ngx-build-plus) to extend the Angular CLI's default build behavior. Allows a partial custom webpack config. to be merged with the CLI's one.
 
 ## :floppy_disk: Setup
 
 * Run `npm i` to install dependencies.
 * Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-* Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+* Run `npm run build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 ## :wrench: Testing
 
