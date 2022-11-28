@@ -12,17 +12,17 @@
 ## :page_facing_up: Table of contents
 
 * [:zap: Angular Tailwind Auth Panel](#zap-angular-tailwind-auth-panel)
-  * [:page_facing_up: Table of contents](#page_facing_up-table-of-contents)
+  * [:page\_facing\_up: Table of contents](#page_facing_up-table-of-contents)
   * [:books: General info](#books-general-info)
   * [:camera: Screenshots](#camera-screenshots)
-  * [:signal_strength: Technologies](#signal_strength-technologies)
-  * [:floppy_disk: Setup](#floppy_disk-setup)
+  * [:signal\_strength: Technologies](#signal_strength-technologies)
+  * [:floppy\_disk: Setup](#floppy_disk-setup)
   * [:wrench: Testing](#wrench-testing)
   * [:computer: Code Examples](#computer-code-examples)
   * [:cool: Features](#cool-features)
-  * [:clipboard: Status & To-Do List](#clipboard-status--to-do-list)
+  * [:clipboard: Status \& To-Do List](#clipboard-status--to-do-list)
   * [:clap: Inspiration](#clap-inspiration)
-  * [:file_folder: License](#file_folder-license)
+  * [:file\_folder: License](#file_folder-license)
   * [:envelope: Contact](#envelope-contact)
 
 ## :books: General info
@@ -37,12 +37,12 @@
 
 ## :signal_strength: Technologies
 
-* [Angular framework v14](https://angular.io/)
+* [Angular framework v15](https://angular.io/)
 * [Webpack v5](https://webpack.js.org/) static module bundler for modern JavaScript applications.
 * [Tailwindcss v3](https://tailwindcss.com/) CSS framework
 * [postcss-loader v5](https://www.npmjs.com/package/postcss-loader) Loader to process CSS with PostCSS. Transformations that are applied to the source code of a module, to pre-process files as you import or “load” them.
 * [postcss-scss v4](https://www.npmjs.com/package/postcss-scss) SCSS parser for PostCSS.
-* [ngx-build-plus v14](https://www.npmjs.com/package/ngx-build-plus) to extend the Angular CLI's default build behavior. Allows a partial custom webpack config. to be merged with the CLI's one.
+* [ngx-build-plus v15](https://www.npmjs.com/package/ngx-build-plus) to extend the Angular CLI's default build behavior. Allows a partial custom webpack config. to be merged with the CLI's one.
 
 ## :floppy_disk: Setup
 
@@ -81,8 +81,7 @@
 ## :clipboard: Status & To-Do List
 
 * Status: Working.
-* Testing: App passes unit tests. e2e testing not set up so doesn't pass.
-* To-Do: Nothing
+* To-Do:Fix `__webpack_require__(...).context is not a function``error when running Jasmine testing
 
 ## :clap: Inspiration
 
